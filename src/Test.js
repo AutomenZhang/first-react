@@ -4,7 +4,7 @@ class Test extends Component{
     render(){
         console.log('Test Render');
         return(
-            <div>hello world</div>
+            <div>hello</div>
         )
     }
 }
